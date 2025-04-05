@@ -1,8 +1,8 @@
 import streamlit as st
 import json
 import requests
-# import pandas as pd
-import fireducks.pandas as pd
+import pandas as pd
+# import fireducks.pandas as pd
 from streamlit_agraph import agraph, Config, Node, Edge
 import time
 import datetime
